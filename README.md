@@ -2,7 +2,7 @@
 
 <div align="center">
   
-# 👋 Bonjour, je suis Hugo
+# 👋 Bonjour, je suis Marouan
 
 **Développeur en apprentissage passionné** | Autodidacte autistique avec une passion pour la logique, la structure et la création grâce au code.
 
