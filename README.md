@@ -8,7 +8,7 @@
 
 ---
 
-### 🗺️ Carte de Mes Compétences
+### Mes Compétences
 
 #### **Ce que je sais faire :**
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="20" height="20"/> **HTML**
