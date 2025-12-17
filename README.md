@@ -1,38 +1,34 @@
-# Description-de-moi-m-me
+# Description-de-moi-même
 
 <div align="center">
-  
+
 # 👋 Bonjour, je suis Marouan
 
 **Développeur en apprentissage passionné** | Autodidacte autistique avec une passion pour la logique, la structure et la création grâce au code.
 
+---
 
-### **Carte de Mes Compétences**
+### **🗺️ Carte de Mes Compétences**
 
-####**Ce que je sais faire :**
-- **HTML** : Structure et sémantique.
-- **Roblox Studio** : Création de jeux, scripting Lua.
+#### 🎯 **Ce que je sais faire :**
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="20" height="20"/> **HTML** : Structure et sémantique
+- <img src="https://simpleicons.org/icons/robloxstudio.svg" alt="Roblox Studio" width="20" height="20"/> **Roblox Studio** : Création de jeux, scripting Lua.
 
-#### **Cela passe dans l'ensemble :**
-- **CSS** : Mise en page et styles.
-- **SQL** : Bases de données et requêtes.
-- **VS Code** : Mon éditeur de code principal.
+#### 📈 **Cela passe dans l'ensemble :**
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="20" height="20"/> **CSS** : Mise en page et styles.
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="20" height="20"/> **SQL** : Bases de données et requêtes.
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="20" height="20"/> **VS Code** : Mon éditeur de code principal.
 
-####  **Que je dois apprendre :**
-- **Python** : Pour l'automatisation et la logique.
-- **C++** : Pour comprendre les fondements de la programmation.
+#### 🧠 **Ce que je dois apprendre :**
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="20" height="20"/> **Python** : Pour l'automatisation et la logique.
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="20" height="20"/> **C++** : Pour comprendre les fondements de la programmation.
 
-#### ⏳ **Jamais découvert mais cela m'intéresse ou encore des logiciels que je n'ai plus utilisé depuis un bon bout de temps**
-- **Java**
-- **SolidWorks**
+#### ⏳ **Jamais découvert mais cela m'intéresse (ou logiciels inutilisés depuis longtemps)**
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="20" height="20"/> **Java**
+- <img src="https://cdn.worldvectorlogo.com/logos/solidworks.svg" alt="SolidWorks" width="20" height="20"/> **SolidWorks**
 
+---
 
-</div>
-
-</div>
-
-
-
-**💬 N'hésitez pas à explorer mes dépôts pour voir ma progression. Les retours constructifs sont les bienvenus !**
+*Icônes fournies par [Devicon](https://devicon.dev/) et [Simple Icons](https://simpleicons.org/).*
 
 </div>
